@@ -2,9 +2,11 @@
 
 ##### Pré-requisitos:
 
-Java 11
-Maven3.6.3
-Um projeto Spring boot com as dependências: Web, Actuador, DevTools, lombok,JPA e Database H2.
+:coffee: Java 11
+
+:computer: Maven3.6.3
+
+:books: Um projeto Spring boot com as dependências: Web, Actuador, DevTools, lombok,JPA e Database H2.
 
 ##### Etapas
 
