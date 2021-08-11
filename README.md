@@ -4,7 +4,7 @@
 
 :coffee: Java 11
 
-:computer: Maven3.6.3
+:computer: Maven 3.6.3
 
 :books: Um projeto Spring boot com as dependências: Web, Actuador, DevTools, lombok,JPA e Database H2.
 
